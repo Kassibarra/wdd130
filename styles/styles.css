@@ -1,4 +1,5 @@
-nav{ background-color: darkblue;padding: 10;}
-h1{color: darkblue;}
-img{width: 150px;height: auto; border: 1px solid black;padding: 2px;box-shadow: 0 0 30px;}
-p {padding:  10px;}
+aside{width: 20rem;margin: 1rem;border: 1px solid rgba(red, green, blue, alpha);/* 1*/; background-color: #eee;color: #333;text-align: center;}
+aside img{ width: 200px;height: auto;}
+main img{width: 150px;height: auto;}
+footer{margin-top: 15px;border: 1px solid #000;text-align: center;background-color: aqua;}
+p{padding: 0;}
