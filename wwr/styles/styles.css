@@ -54,17 +54,16 @@ section {
 text-align: center;
 
 }
-
-.Parrafo {
-
-text-align: center;
-background-color: #F18E0D;
-margin-left: 20%;
-margin-right: 20%;
-border: solid 3px #F18E0D;
-background-color: #09345D ;
-color: white;
+.Paragrath {
+    text-align: center;
+    background-color: #F18E0D;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid 3px #F18E0D;
+    background-color: #09345D ;
+    color: white;
 }
+
 
 footer{
 
