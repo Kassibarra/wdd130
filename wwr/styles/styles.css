@@ -65,23 +65,30 @@ text-align: center;
 }
 
 
-footer{
+footer {
+    margin-top : 15px;
+    border : #000 solid 1px;
+    text-align : center;
 
-text-align: center;
-border-top: solid 3px #F18E0D;
 
+aside img {
+    width : 200px;
+    height : auto;
+    }
 
-}
-main img{
-    float: right;
-}
-
-aside{
-position: relative;
-
-}
+aside {
+    width : 20rem;
+    margin : 1rem;
+    padding : 1rem;
+    background-color : #eee;
+    color : #333;
+    text-align : center;
+    }
 
 aside h2 {
 
     position: absolute;
 }
+p {
+    padding : 0;
+    }
