@@ -1,0 +1,78 @@
+.first{
+background-image: url(/wwr/images/raf5.jpg);
+        color: white;
+    padding: 25px;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    margin-top: 120px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border: solid 3px #F18E0D;
+
+
+}
+nav img{
+   
+    color: white;
+    padding: 25px;
+    text-align: left;
+    padding: 1%;
+    float: left;
+margin-top: 1.5%;
+  
+}
+nav
+{
+    background-color: #64C1FF;
+    color: white;
+    padding: 25px;
+    text-align: right;
+    border:solid 3px #F18E0D;
+    
+
+}
+article{
+    text-align: center;
+    font-style: italic;
+margin-top: -40px;
+
+}
+
+section img{
+
+text-align: center;
+height: 700px;
+border:solid 3px #F18E0D;
+margin-top: 50px;
+
+}
+
+section {
+text-align: center;
+
+}
+
+.Parrafo {
+
+text-align: center;
+background-color: #F18E0D;
+margin-left: 20%;
+margin-right: 20%;
+border: solid 3px #F18E0D;
+background-color: #09345D ;
+color: white;
+
+}
+
+footer{
+
+text-align: center;
+border-top: solid 3px #F18E0D;
+
+
+
+}
+
