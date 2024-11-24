@@ -75,3 +75,13 @@ border-top: solid 3px #F18E0D;
 main img{
     float: right;
 }
+
+aside{
+position: relative;
+
+}
+
+aside h2 {
+
+    position: absolute;
+}
