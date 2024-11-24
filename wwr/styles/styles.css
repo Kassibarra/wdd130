@@ -64,14 +64,13 @@ margin-right: 20%;
 border: solid 3px #F18E0D;
 background-color: #09345D ;
 color: white;
-s
 }
 
 footer{
 
 text-align: center;
 border-top: solid 3px #F18E0D;
-
+@import url(https://fonts.google.com/specimen/Dosis?query=DOSIS);
 
 
 }
