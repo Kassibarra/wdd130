@@ -1,0 +1,23 @@
+a{text-decoration: none;}
+h1 {
+text-align: center;
+
+
+}
+
+.hero{
+    background: url(/wwr/images/raf4.jpg);
+    margin: 50px;
+    background-repeat: no-repeat;
+
+    text-align: center;
+}
+
+
+.hero img{
+display: block;
+width: 100%;
+height: auto;
+margin-top: 5px;
+
+}
