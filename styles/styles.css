@@ -9,7 +9,7 @@ nav{
 background-color: steelblue;
 padding: 1rem;
 display: flex;
-justify-content: space-evenly;
+justify-content: space-between;
 align-items: center;
 
 
@@ -39,43 +39,45 @@ border-radius: 400px;
 
     display: grid;
     grid-template-columns: 1FR 1FR 1FR;
-    grid-template-rows: 1FR 1FR;
+    grid-template-rows: 1FR ;
     grid-gap: 2pc;
 }
 
 main {
 grid-column: 2/4;
+display:grid ;
+background: lightblue;
+display: block;text-align: center;
+text-align: justify;
+display: flex;
 
 
 
 }
 
-aside {
+.aside1 {
 width: 20rem;
 position: relative;
-grid-column: 1/2;
 grid-row: 1/2;
-}
-
-
-.imagen1 {
-display: flex;
-align-items: center;
-justify-content: center;
+display: block;
 
 }
+
+
+
+
 .subtitle {
 
 margin-top: 80px;
 
+
 }
 
-main .Imagen1 {
-width: 200px;
-height: 200px;
+.Imagen1 {
+width: 150px;
+height: 150px;
 border:solid 2px steelblue;
 box-shadow: 0 0 15px 0;
-
 
 
 
