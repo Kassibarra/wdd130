@@ -1,39 +1,44 @@
 
-header{
- 
-
-
-
-}
-
-.main-navbar ul {
-
-display: flex;
+*{
+margin: 0;
 padding: 0;
-background-color: #48e;
-color: white;
-justify-content:center;
-
-
-
-background-color:;
 
 }
 
-.main-navbar li{
 
-list-style: none;
-margin: 5px;
+.CONTENEDOR{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    grid-gap: 15px;
+    background-color: aqua;
 
 }
 
-.main-navbar a {
-color: #fff;
+.CONTENEDOR .home{
+    grid-column: 1/2;
+    background-color: blue;
+   
 
 
 }
 
-nav a {
 
-    text-decoration: none;
+.CONTENEDOR .about{
+
+    grid-column: 2/3;
+    background-color: blue;
+}
+.CONTENEDOR .trips{
+    grid-column: 3/4;
+    background-color: blue;
+
+
+}
+
+
+.CONTENEDOR .contactus {
+    grid-column: 4/5;
+    background-color: blue;
+
+
 }
