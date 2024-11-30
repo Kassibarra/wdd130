@@ -17,7 +17,7 @@ padding: 0;
 
 }
 
-.CONTENEDOR .home{
+.CONTENEDOR .home1{
     grid-column: 2/3;
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ padding: 0;
 }
 
 
-.CONTENEDOR .about{
+.CONTENEDOR .about1{
 
     grid-column: 3/4;
     
@@ -53,7 +53,7 @@ padding: 0;
     background: white;
    
 }
-.CONTENEDOR .trips{
+.CONTENEDOR .trips1{
     grid-column: 4/5;
     display: flex;
     justify-content: center;
@@ -68,7 +68,7 @@ padding: 0;
 }
 
 
-.CONTENEDOR .contactus {
+.CONTENEDOR .Contactus1 {
     grid-column: 5/6;
     display: flex;
     justify-content: center;
