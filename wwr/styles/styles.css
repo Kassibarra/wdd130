@@ -284,3 +284,25 @@
         display: flex;
         justify-content: left;
     }
+    .Contactmain{
+        display: grid;
+        grid-template-columns: 2fr 1fr ;
+        grid-template-rows: 2fr;
+        grid-gap: 1rem;
+    }
+
+    .Contactmain .titlecontactmain{
+        grid-column: 1/3;
+        grid-row: 1/1;
+        display: flex;
+        justify-content: center;
+
+    }
+    .Contactmain .tablecontact{
+        grid-column: 1/2;
+        grid-row: 2/2;
+        border: solid orangered;
+        align-items: center;
+        justify-items: center;
+
+    }
